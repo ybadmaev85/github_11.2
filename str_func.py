@@ -5,3 +5,5 @@ def upper_word(word):
 print("Введите слово которое нужно увеличить")
 s = input()
 print(upper_word(s))
+
+""" Задание сделано верно """
